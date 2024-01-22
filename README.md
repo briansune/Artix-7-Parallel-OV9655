@@ -12,7 +12,7 @@ This is a renew revision of OV9655 Camera Demonstration from ALINX.
 
 # If you need the EVB - Email me
 
-<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/45cd2f58-d7d1-4216-8cf3-8c5b0ee9c6d4" style="height:35%; width:35%">
+<img src="https://github.com/briansune/Artix-7-Parallel-OV9655/assets/29487339/02935212-59cc-45d8-976e-a8a6c81b3b64" style="height:35%; width:35%">
 
 ### The EVB uses 1.8V VCore, 2.8V DVDD, and 3V3 IO. This is aligned with the ALINX board hw specifications.
 
@@ -21,7 +21,7 @@ This is a renew revision of OV9655 Camera Demonstration from ALINX.
 
 # Hardware Setup - OV9655 (EVB OV9655)
 
-<img src="https://github.com/briansune/Artix-7-Parallel-OV5640/assets/29487339/0a652685-1a1f-4712-9fe3-5e0925c2de81" style="height:45%; width:45%">
+<img src="https://github.com/briansune/Artix-7-Parallel-OV9655/assets/29487339/d1091085-6b18-4cd6-b140-47f340c804f0" style="height:45%; width:45%">
 
 ## Preview
 
